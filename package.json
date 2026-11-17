@@ -1,0 +1,1 @@
+{"description":"A GitHub-compatible git forge for the make.fun github-core-clone-01 competition: git smart-HTTP, REST, GraphQL and MCP surfaces over one in-memory store.","license":"MIT","name":"makefun-forge","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
